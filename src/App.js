@@ -44,7 +44,6 @@ export default function App(props) {
                     {...answer, isSelected: false}), correctAnswer:  item.correctAnswer.id === id  ? {...item.correctAnswer, isSelected: !item.correctAnswer.isSelected} : {...item.correctAnswer, isSelected: false} } : item
         })
         setData(updatedAnswers)
-        console.log(data)
     }
 
     function showAnswer() {

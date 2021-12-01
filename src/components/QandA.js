@@ -7,6 +7,7 @@ export default function QandA(props) {
 
     const options = newAnswersArray.map( (answer) => (
         <Answer 
+        key={answer.id}
         showCorrect={props.showCorrect}
         getStyle={props.getStyle}
         answerObj={answer}
