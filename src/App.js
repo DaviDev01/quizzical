@@ -75,7 +75,7 @@ export default function App(props) {
     }
  
     return (
-        <>
+        <div className="outerMostDiv">
             {isQuizShown ===  false ? 
                 <LobbyPage showQuizPage={showQuizPage}/> : 
                 <QuizPage 
@@ -88,6 +88,6 @@ export default function App(props) {
                     randomNum={randomNum}
                 />
             }
-        </>
+        </div>
     )
 } 

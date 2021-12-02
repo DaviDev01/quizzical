@@ -25,7 +25,7 @@ export default function QuizPage(props) {
     
     return (
         <main className="quizPage" style={styles}>
-            {QsAndAs}
+            {QsAndAs}  
             <div className="scoreNbtn">
                 {props.showCorrect && <h4 className="scoreNbtn--score">You scored {props.rigntAnswers}/5 correct answers</h4>}
                 <button onClick={props.showAnswer} className="q-and-a--btn">{!props.showCorrect ? "Check answers" : "Play again"}</button>
