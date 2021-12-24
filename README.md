@@ -9,10 +9,13 @@ Características:
 - O usuário não pode alterar suas respostas após enviá-las.
 
 - A pontuação é exibida depois que o usuário envia as respostas.
+
+Link para o projecto no GitHub Pages: https://davidev01.github.io/quizzical/
 ________________________________________________________________
 
 Quizzical 
 Trivia game. 
+API used in this project: https://opentdb.com/api_config.php
 
 features:
 
@@ -22,4 +25,4 @@ features:
 
 - The score is displayed after the user submits the answers.
 
-API used in this project: https://opentdb.com/api_config.php
+GitHub Pages Link: https://davidev01.github.io/quizzical/
