@@ -1,6 +1,6 @@
 Quizzical
 Jogo de perguntas e respostas.
-API Usado nesse projeto: https://opentdb.com/api_config.php
+Link para o projecto no GitHub Pages: https://davidev01.github.io/quizzical/
 
 Características:
 
@@ -10,12 +10,12 @@ Características:
 
 - A pontuação é exibida depois que o usuário envia as respostas.
 
-Link para o projecto no GitHub Pages: https://davidev01.github.io/quizzical/
+API Usado nesse projeto: https://opentdb.com/api_config.php
 ________________________________________________________________
 
 Quizzical 
 Trivia game. 
-API used in this project: https://opentdb.com/api_config.php
+GitHub Pages Link: https://davidev01.github.io/quizzical/
 
 features:
 
@@ -25,4 +25,4 @@ features:
 
 - The score is displayed after the user submits the answers.
 
-GitHub Pages Link: https://davidev01.github.io/quizzical/
+API used in this project: https://opentdb.com/api_config.php
